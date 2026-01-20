@@ -16,6 +16,22 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     };
 
+    // Navbar scroll effect - transparent at top, white when scrolled
+    const navbar = document.getElementById('mainNav');
+    const scrollThreshold = 50; // pixels to scroll before changing navbar
+
+    function updateNavbar() {
+        if (window.scrollY > scrollThreshold) {
+            navbar.classList.add('scrolled');
+        } else {
+            navbar.classList.remove('scrolled');
+        }
+    }
+
+    // Run on load and scroll
+    updateNavbar();
+    window.addEventListener('scroll', updateNavbar);
+
     // Collapse responsive navbar when toggler is visible
     const navbarToggler = document.body.querySelector('.navbar-toggler');
     const responsiveNavItems = [].slice.call(
