@@ -1,30 +1,21 @@
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+浙江大学兰可桢学院（荣誉学院）& 经济学院财政学专业本科在读。
 
-#### Contact
+#### 联系方式
 
-Email: [3230102273@zju.edu.cn](mailto:3230102273@zju.edu.cn)
+- **电话**：(+86) 18001591707
+- **邮箱**：[3230102273@zju.edu.cn](mailto:3230102273@zju.edu.cn)
 
-#### Education
+#### 基本信息
 
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- **性别**：男
+- **民族**：汉
+- **籍贯**：江苏南京
 
-#### Research Interests
+#### 研究兴趣
 
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+公共财政、最优税收、宏观经济学、高维计量经济学
 
-- item1
-- item2
+#### 技能
 
-1. list 1
-2. list 2
-
-This is a **bold**, *italic*, ~~delete~~
-
-| 1 | 2 | 3 |
-|:-:|:-:|:-:|
-|111|222|333|
-|123|23|123|
-
-[paper](static/assets/pdf/paper1.pdf)
-[code]()
+- **编程语言**：Python，Stata，R，Matlab，LaTeX
+- **语言能力**：英语 CET-6（570分）

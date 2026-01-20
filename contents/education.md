@@ -1,17 +1,22 @@
-## Ph.D. in Computer Science
-**University Name**, 2020 - 2024
-- Dissertation: Research on Advanced Topics in Computer Science
-- Advisor: Prof. XXX
-- GPA: 3.8/4.0
+## 浙江大学
 
-## Master's Degree in Computer Science
-**University Name**, 2018 - 2020
-- Thesis: Study on Machine Learning Applications
-- GPA: 3.9/4.0
+**兰可桢学院（荣誉学院）& 经济学院 财政学**，本科在读
 
-## Bachelor's Degree in Computer Science
-**University Name**, 2014 - 2018
-- Major: Computer Science
-- Minor: Mathematics
-- GPA: 3.8/4.0
-- Honors: Dean's List, Scholarship Award
+---
+
+### 核心数学课程
+
+- 微积分（甲）(90)
+- 线性代数（甲）(88, top5%)
+
+### 核心经济学课程
+
+- 中级宏观经济学（99）
+- 中级微观经济学（97）
+- 计量经济学（94）
+- 公共经济学（95）
+
+### 编程类课程
+
+- Python程序设计（93）
+- 量化宏观经济学（递归方法）（100）

@@ -1,16 +1,41 @@
-#### Submitted
+## 独立研究
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+### 贸易开放度、高通胀与货币竞争：基于搜寻理论的法币与稳定币分析
 
-#### Published
+**独立研究** | 2025.11
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+1. **模型构建**：基于Kiyotaki-Wright（1993）框架构建连续时间搜寻模型，引入贸易模式的异质性，在微观基础上刻画了内资企业与外贸企业差异化的货币搜寻策略。
+2. **机制分析**：识别了货币替代的跨部门传导。证明了贸易开放度会通过交易匹配摩擦，将外贸部门的货币偏好溢出至内资部门，从而造成法币流动性的全面萎缩。
+3. **核心发现**：比较静态分析表明，在相同的通胀水平下，较高的贸易开放度会扩大"拒绝法币均衡"的"吸引益"，导致经济系统结构性脆弱，即便面临微小的信心扰动也极易陷入法币崩溃的陷阱。
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+---
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+### 补贴重构：财政压力与偏好扭曲（工作论文）
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+**独立研究** | 2025.12 - 至今
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+1. **数据构建与识别**：利用大语言模型对上市公司的政府补贴数据分类，构建了区分"生产性"与"救助性"补贴的微观数据集；利用工具变量有效识别了财政压力对补贴配置的因果效应。
+2. **结构化机制分解**：构建政府决策的经济理论框架，将财政压力的影响分解为收入效应、替代效应与偏好漂移（Preference Drift），并通过商业周期核算方法证明政府目标函数从"求增长"向"保稳定"发生了结构性坍塌。
+3. **高维异质性发掘**：应用广义随机森林的估计方法估算微观企业的条件平均处理效应（CATE）。发现政府行为呈现显著的非对称双重逻辑——在救助时遵循"保税基"的市场逻辑（优先救助高效率企业），而在削减补贴时则遵循"保体制"的政治逻辑（逆向淘汰民营企业）。
 
+---
+
+## 助研经历
+
+### AI Economist 论文复现与最优税收前沿（进行中）
+
+**研究助理** | 2026.01 - 至今
+
+1. **文献**：The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies (Zheng et al., 2020)
+2. **经济环境模拟**：使用Python复现论文中的"Gather-and-Build"场景，模拟了异质性代理人在资源有限情况下的博弈行为（如采集资源、建造房屋和自由交易）。
+3. **双层学习框架**：构建Stackelberg博弈的强化学习结构，让AI税务局学习如何制定最优税率，同时让AI纳税人基于算法动态调整工作意愿以最大化自身收益。
+4. **效果评估**：通过多智能体联合训练，旨在验证AI税制在公平与效率权衡上优于Saez（2001）经典公式，探索深度学习在机制设计中的应用。
+
+---
+
+### 基于《历代进士登科数据库》开展跨学科系列研究
+
+**研究助理** | 2025.06 - 2025.09
+
+1. **历史文本结构化**：利用Excel对海量非结构化历史典籍文本进行提取、编码与整理，构建高精度的微观面板数据集。
+2. **数据清洗与建库**：使用Python程序进行自动化数据清洗和统计，构建了涵盖多维度的进士登科长时段面板数据。
